@@ -1,4 +1,4 @@
-# FastMICE：Fast Multi-view Clustering via Ensembles
+## FastMICE：Fast Multi-view Clustering via Ensembles
 
 This is the source code for the FastMICE algorithm, which is proposed in the following paper:
 
