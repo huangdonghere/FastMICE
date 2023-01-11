@@ -2,7 +2,7 @@
 
 This is the source code for the FastMICE algorithm, which is proposed in the following paper:
 
-Dong Huang, Chang-Dong Wang, Jian-Huang Lai. 
+Dong Huang, Chang-Dong Wang, Jian-Huang Lai.
 "Fast Multi-view Clustering via Ensembles: Towards Scalability, Superiority, and Simplicity."
 IEEE Transactions on Knowledge and Data Engineering, accepted, 2023.
 
